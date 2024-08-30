@@ -1,2 +1,3 @@
-# lilyfarm-public
-The public repository of lilyfarm.org
+# lilyfarm
+
+Farmer's Market Platform
