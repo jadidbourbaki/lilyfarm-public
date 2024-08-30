@@ -12,8 +12,4 @@ sudo python3 deploy.py
 You might need `sudo` with the above.
 
 The CLI will guide you through deploying your service on Linux machines. It
-will create a `lilyfarm.service` to be run by `systemd`.
-
-**Note**: If you have already deployed lilyfarm in the past, make sure to clean up
-all the `export LILYFARM_` commands in your `.bashrc` file.
-
+will create a `lilyfarmd.service` to be run by `systemd`.

@@ -1,5 +1,7 @@
 The Lily Farm API currently has two API calls. No API Key or credentials are required. However, please keep request traffic manageable, our infrastructure is very modest currently.
 
+GNU GPL Licensed source code is available [here](https://github.com/jadidbourbaki/lilyfarm-public).
+
 #### Data Sources
 
 The Lily Farm API supports multiple data sources. There are two data sources currently supported:

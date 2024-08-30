@@ -44,7 +44,7 @@ func New() *Service {
 
 	// Initialize the logger.
 	// No need to handle errors here, if even the logger isn't running
-	// then... well.. may Allah help us.
+	// then... well.. there's not much we can do.
 	service.logger = *zap.Must(zap.NewProduction())
 	service.sugaredLogger = *service.logger.Sugar()
 
